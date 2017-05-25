@@ -1,0 +1,76 @@
+.divred{
+background-color:#FF0000
+}
+
+
+.font-1{
+  
+   font-weight:normal;
+   font-style:normal;
+}
+
+.font-2{
+  
+     font-weight:normal;
+   font-style:normal;
+}
+.card{
+padding: 20px;
+color: #fff;
+justify-content:center;
+text-align: center;
+border: 2px solid;
+border-radius:8px;
+}
+
+.card>span{
+font-size: 60pt;
+}
+
+.footer{
+background-color:#333;
+padding:10px;
+color:#fff;
+}
+
+.footer span{
+font-size: 12pt;
+}
+
+.blog-data{
+background-color:red;
+color:#fff;
+border-radius:3px;
+}
+
+.blog-data .dia{
+font-size: 36pt;
+}
+
+.blog-data .mes{ 
+font-size: 12pt
+}
+
+.blog-autor{
+font-size:20pt;
+color:red;
+}
+
+.blog-previa{
+font-size: 16pt;
+}
+
+.imgprevia{
+width:450px;
+height:300px;
+}
+
+.post-nav span{
+font-size:30pt;
+}
+
+.post-nav{
+background-color:red;
+padding-top: 20px;
+padding-bottom: 20px;
+}
